@@ -1,2 +1,2 @@
- <h2 align="center"><bold>Tobirama</bold></h2>
-This is my personal information
+ <h2 align="center"><bold>Hi, I'm Tobirama</bold></h2>
+<p align="center">This is my profile</p>
