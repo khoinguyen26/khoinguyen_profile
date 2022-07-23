@@ -9,3 +9,6 @@
 ) ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white) ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
 
 <a href="https://app.daily.dev/encore1902"><img src="https://github.com/khoinguyen26/khoinguyen26/blob/main/devcard.svg" width="250" alt="Encore's Dev Card" align="right"/></a>
+
+# Contact me
+- 📬 khoinguyen261101@gmail.com
